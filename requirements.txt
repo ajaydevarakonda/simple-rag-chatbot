@@ -1,0 +1,10 @@
+python-dotenv
+aiofiles
+faiss-cpu
+langchain
+langchain_community
+langchain_openai
+langchain-huggingface
+langchain-ollama
+uvicorn
+fastapi
